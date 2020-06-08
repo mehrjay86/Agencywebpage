@@ -1,0 +1,189 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.show{
+    background: url("images/laptop.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
+#showcase{
+    margin-top: 20px;
+}
+#showcase h1{
+    padding-top: 80px;
+}
+#showcase h5{
+    margin-top: 15px;
+}
+#showcase p{
+    margin: 15px;
+}
+#showcase .btn{
+    margin-top: 20px;
+    color:#ffff;
+}
+#showcase .btn:hover{
+    background-color: #ffff;
+    color:#9999;
+}
+/*-------*/
+#contact{
+    margin-top: 20px;
+}
+#contact .left{
+    width: 50%;
+    margin-top: 40px;
+}
+
+#contact .left h1{
+    font-weight: bold;
+    text-align: right;
+    margin: 30px;
+}
+#contact .left h4{
+    text-align: justify;
+    line-height: 1.5em;
+}
+#contact .right{
+    width: 40%;
+    margin-top: 60px;
+}
+.right input[type=text]{
+    padding: 20px 15px;
+    margin: 15px;
+}
+.right .btn{
+    margin:20px 100px;
+}
+/*-----*/
+#cardd .shov{
+    margin-top: 50px;
+    padding: 60px;
+}
+#cardd .row{
+    margin-top: 30px;
+}
+
+.card-body h4, p{
+    padding: 10px;
+}
+/*----*/
+#tower{
+    margin-top: 10px;
+}
+#tower .lefttext{
+    width: 50%;
+    padding: 50px;
+}
+.lefttext h1{
+    font-weight: 400;
+    margin-top: 30px;
+}
+.lefttext h5{
+    line-height: 1.5em;
+    margin-top: 5px;
+}
+#tower .rightimg{
+    width: 45%;
+    margin-top:70px;
+}
+/*-----*/
+#content{
+    margin-top: 80px;
+}
+.limage h1{
+    padding: 40px 0 0 0;
+}
+.limage h4{
+    color: #999;
+    line-height: 1.5em;
+    margin: 20px 0 30px 0;
+}
+.rimage{
+    margin-top: 60px;
+}
+.rimage h1{
+  
+    padding: 30px 0;
+}
+.rimage h4{
+    font-weight: 600;
+   
+}
+.rimage p{
+    padding: 0;
+}
+#back{
+    margin-top: 30px;
+}
+#back .image{
+    background: linear-gradient(rgba(235, 231, 231, 0.808), rgba(165, 159, 159, 0.678)), url("images/gradinet.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 40vh;
+}
+.rightb h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+.leftb, .rightb{
+    padding: 60px 60px;
+}
+/*-----*/
+#client{
+    margin-top: 60px;
+    padding: 50px;
+}
+.leftc{
+    padding: 40px;
+    width: 45%;
+}
+.rightc{
+    padding: 40px;
+    width: 45%;
+}
+/*------*/
+.bacimg{
+    background: linear-gradient(rgba(75, 206, 119, 0.548), rgba(43, 104, 104, 0.836)), url("images/gradinet.jpg");
+    background-size: center/cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 50vh;
+}
+.icon h1{
+    padding: 60px 0 10px 0;
+    color:#ffff;
+    font-size: 55px;
+}
+.icon .fab{
+    padding-right: 10px;
+}
+.bgchange{
+    background-color: rgba(28, 77, 97, 0.973);
+}
+/*------*/
+#back{
+    margin: 0;
+    padding:0;
+}
+#back h4{
+    color: #ffff;
+    padding-top: 40px;
+}
+
+#back h5{
+    color: #ffff;
+    padding-top: 10px;
+}
+.foot{
+    background-color: rgba(28, 77, 97, 0.973);
+}
+.foot h5{
+    color: #ffff;
+    padding: 30px;
+}
